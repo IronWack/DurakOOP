@@ -1,0 +1,2 @@
+# DurakOOP
+C# oop project 
