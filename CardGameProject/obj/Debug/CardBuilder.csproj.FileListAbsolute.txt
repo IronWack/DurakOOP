@@ -1,0 +1,7 @@
+C:\Users\DunkieBoi\Source\Repos\Durak\CardGameProject\bin\Debug\CardGameProject.dll
+C:\Users\DunkieBoi\Source\Repos\Durak\CardGameProject\bin\Debug\CardGameProject.pdb
+C:\Users\DunkieBoi\Source\Repos\Durak\CardGameProject\obj\Debug\CardBuilder.csprojAssemblyReference.cache
+C:\Users\DunkieBoi\Source\Repos\Durak\CardGameProject\obj\Debug\CardGameProject.dll
+C:\Users\DunkieBoi\Source\Repos\Durak\CardGameProject\obj\Debug\CardGameProject.pdb
+C:\Users\DunkieBoi\Source\Repos\Durak\CardGameProject\obj\Debug\CardGameProject.Properties.Resources.resources
+C:\Users\DunkieBoi\Source\Repos\Durak\CardGameProject\obj\Debug\CardBuilder.csproj.GenerateResource.cache
